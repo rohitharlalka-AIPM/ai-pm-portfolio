@@ -1,0 +1,6 @@
+.env
+*.env
+.ai-pm-secrets.env
+__pycache__/
+.venv/
+.DS_Store
