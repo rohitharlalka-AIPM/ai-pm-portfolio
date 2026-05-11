@@ -1,0 +1,10 @@
+[project]
+name = "bakeoff"
+version = "0.1.0"
+description = "Run the same prompts across multiple LLMs and produce a Markdown comparison report."
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=0.3.0",
+    "groq>=0.11.0",
+    "python-dotenv>=1.0.1",
+]
